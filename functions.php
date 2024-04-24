@@ -3,7 +3,7 @@
  * This file adds functions to the Sycamore WordPress theme.
  *
  * @package Sycamore
- * @author  WP Engine
+ * @author  Union Glyph
  * @license GNU General Public License v3
  * @link    https://www.unionglyph.com/
  */
