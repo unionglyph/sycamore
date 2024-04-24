@@ -5,7 +5,7 @@
  * @package Sycamore
  * @author  WP Engine
  * @license GNU General Public License v3
- * @link    https://sycamorewp.com/
+ * @link    https://wordpress.org/themes/sycamore/
  */
 
 if ( ! function_exists( 'sycamore_setup' ) ) {
