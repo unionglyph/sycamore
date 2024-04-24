@@ -5,7 +5,7 @@
  * @package Sycamore
  * @author  WP Engine
  * @license GNU General Public License v3
- * @link    https://wordpress.org/themes/sycamore/
+ * @link    https://www.unionglyph.com/
  */
 
 if ( ! function_exists( 'sycamore_setup' ) ) {
